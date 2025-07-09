@@ -21,12 +21,12 @@ This is a simple and responsive front-end for an e-commerce website built using 
 
 ## UI/UX Highlights
 
-- 🎨 **Modern UI Design:** Clean, minimalistic layout with attention to typography and spacing
-- 🖱️ **Interactive Elements:** Hover effects and animation on Add to Cart
-- 📱 **Responsive Design:** Mobile-friendly grid layout using media queries
-- 🧠 **User Experience:** Easy navigation with scrollable menu and clear sections
-- 💾 **Persistent State:** Cart items retained using browser localStorage
-- 🧩 **Logical Structure:** Organized component layout and visual hierarchy
+-  **Modern UI Design:** Clean, minimalistic layout with attention to typography and spacing
+-  **Interactive Elements:** Hover effects and animation on Add to Cart
+-  **Responsive Design:** Mobile-friendly grid layout using media queries
+-  **User Experience:** Easy navigation with scrollable menu and clear sections
+-  **Persistent State:** Cart items retained using browser localStorage
+-  **Logical Structure:** Organized component layout and visual hierarchy
 
 ## Folder Structure
 
@@ -45,16 +45,16 @@ Ecommerce_web/
 
 ## Screenshots
 
-### 🏠 Home Page
+###  Home Page
 ![Home Page]
 (Screenshots\ss1.png)
 (Screenshots\ss2.png)
 (Screenshots\ss3.png)
              
-### 🛒 Cart Functionality
+###  Cart Functionality
 ![Cart Page]) (Screenshots\cart_count.png)
 
-### 📱 Responsive Design (Mobile View)
+###  Responsive Design (Mobile View)
 ![Mobile View]
 (Screenshots\mv1.png)
 (Screenshots\mv2.png)
